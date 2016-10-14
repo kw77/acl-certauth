@@ -18,7 +18,7 @@
   "license": "CC-BY",
   "homepage": "https://github.com/kw77/acl-certauth",
   "dependencies": {
-    "acl": "^0.4.9",
+    "acl": "^0.4.9"
   },
   "devDependencies": {}
 }
